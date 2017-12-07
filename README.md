@@ -1,1 +1,1 @@
-Makefile isn't working for some reason
+It works now
